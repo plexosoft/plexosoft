@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/plexoio" target="blank"><img src="https://img.shields.io/twitter/follow/plexoio?logo=twitter&style=for-the-badge" alt="plexoio" /></a> </p>
 
-- 🔭 I'm a Full Stack Software Developer working with advanced techniques like Agile development, software testing, and continuous integration.  
+- 🔭 I'm a Full Stack Software Developer working with advanced techniques like Agile development, Cloud Computing, Blockchain, AI, Software Testing, and DevOps.  
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/plexoio?tab=projects)
 - 📝 I regularly write articles on [Medium](https://medium.com/@frankarellano)
 - 💬 Ask me about **HTML, CSS, Javascript, Python & Blockchain**
