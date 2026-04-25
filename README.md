@@ -19,12 +19,40 @@
 
 I design and build systems that scale.
 
-My work sits at the intersection of software engineering, distributed systems, and emerging technologies. I focus on creating robust, production-ready solutions using modern development practices and a strong engineering mindset.
+Beyond software development, I focus on solving a deeper problem:  
+**how to turn attention into structured, scalable digital businesses.**
+
+I am the founder of **Plexotrade LLC**, where I build **Plexosoft** — a platform designed to help creators, freelancers, and digital entrepreneurs move from fragmented tools to integrated systems that actually generate clients.
+
+Most people don’t fail because they lack ideas.  
+They fail because they lack **infrastructure, clarity, and execution systems**.
+
+My work combines:
 
 - Full Stack Development with real-world deployment focus  
-- Experience across Cloud, DevOps, and system architecture  
-- Strong interest in AI, Blockchain, and high-performance systems  
-- Continuous learner, constantly refining both technical and strategic thinking  
+- System design for digital businesses, not just applications  
+- Cloud, DevOps, and scalable architecture  
+- Applied thinking in AI, automation, and emerging technologies  
+
+---
+
+## What I’m Building
+
+**Plexosoft** is an attempt to solve a real inefficiency in the digital space:
+
+Too many tools.  
+Too much noise.  
+Not enough systems.
+
+The platform brings together:
+
+- Software to build and manage a digital presence  
+- Structured guidance to reduce complexity  
+- Systems that convert visibility into clients  
+- Optional services to outsource execution when needed  
+
+The objective is simple:  
+**replace scattered efforts with a cohesive, working system.**
 
 ---
 
