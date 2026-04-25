@@ -2,12 +2,6 @@
 <h3 align="center">Full Stack Developer • Systems Thinker • Builder of Scalable Solutions</h3>
 
 <p align="center">
-  <a href="https://github.com/plexosoft">
-    <img src="https://komarev.com/ghpvc/?username=plexosoft&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/plexosoft?tab=projects">
     <img src="https://github-profile-trophy.vercel.app/?username=plexosoft&theme=algolia&no-frame=true&margin-w=10" />
   </a>
