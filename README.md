@@ -62,7 +62,7 @@ The objective is simple:
 HTML • CSS • JavaScript • Python • SQL
 
 **Frameworks & Tools**  
-Django • PostgreSQL • Bootstrap • Redis • Salesforce • Supabase • AWS3 • Cloudflare • OpenAI • Together AI
+Django • PostgreSQL • Bootstrap • Redis • Salesforce • Supabase • AWS3 • Cloudflare • OpenAI API • Together AI API
 
 **Infrastructure & Concepts**  
 Cloud and Edge Computing • DevOps • Agile • Software Testing • System Design  
