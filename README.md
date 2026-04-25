@@ -59,7 +59,7 @@ The objective is simple:
 ## Core Stack
 
 **Languages**  
-HTML • CSS • JavaScript • Python  
+HTML • CSS • JavaScript • Python • SQL
 
 **Frameworks & Tools**  
 Django • PostgreSQL • Bootstrap • Redis • Salesforce • Supabase • AWS3 • Cloudflare • OpenAI • Together AI
