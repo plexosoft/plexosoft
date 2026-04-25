@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Frank Reinaldo Arellano Andrade</h1>
 <h3 align="center">A passionate software developer and dedicated learner</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=plexoio&label=Profile%20views&color=0e75b6&style=flat" alt="plexoio" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=plexosoft&label=Profile%20views&color=0e75b6&style=flat" alt="plexosoft" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plexoio" alt="plexoio" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plexosoft" alt="plexosoft" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/plexoio" target="blank"><img src="https://img.shields.io/twitter/follow/plexoio?logo=twitter&style=for-the-badge" alt="plexoio" /></a> </p>
+<p align="left"> <a href="https://twitter.com/plexotrade" target="blank"><img src="https://img.shields.io/twitter/follow/plexotrade?logo=twitter&style=for-the-badge" alt="plexotrade" /></a> </p>
 
 - 🔭 I'm a Full Stack Software Developer working with advanced techniques like Agile development, Cloud Computing, Blockchain, AI, Software Testing, and DevOps.  
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/plexoio?tab=projects)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/plexosoft?tab=projects)
 - 📝 I regularly write articles on [Medium](https://medium.com/@frankarellano)
 - 💬 Ask me about **HTML, CSS, Javascript, Python & Blockchain**
 - 📫 How to reach me **frankarellano13@gmail.com**
@@ -17,12 +17,12 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://twitter.com/plexoio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="plexoio" height="30" width="40" /></a>
+<a href="https://twitter.com/plexotrade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="plexotrade" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arellanofrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arellanofrank" height="30" width="40" /></a>
 <a href="https://fb.com/plexo.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="plexo.io" height="30" width="40" /></a>
 <a href="https://instagram.com/plexo.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="plexo.io" height="30" width="40" /></a>
 <a href="https://medium.com/@frankarellano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@frankarellano" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/plexoio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="plexoio" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/plexotradeLLC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="plexotradeLLC" height="30" width="40" /></a>
 <a href="/https://post.plexo.io/rss-distribution" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://post.plexo.io/rss-distribution" height="30" width="40" /></a>
 </p>
 
