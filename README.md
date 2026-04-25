@@ -81,7 +81,7 @@ Cloud and Edge Computing • DevOps • Agile • Software Testing • System De
 
 ## Contact
 
-- Email: frankarellano13@gmail.com  
+- Email: support@plexosoft.io 
 - LinkedIn: https://www.linkedin.com/in/arellanofrank  
 
 ---
