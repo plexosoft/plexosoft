@@ -26,7 +26,7 @@ My work combines:
 
 ## What I’m Building
 
-**Plexosoft** is an attempt to solve a real inefficiency in the digital space:
+**Plexosoft** is there to solve a real inefficiency in the digital space:
 
 Too many tools.  
 Too much noise.  
