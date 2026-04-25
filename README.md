@@ -1,12 +1,6 @@
 <h1 align="center">Frank Reinaldo Arellano Andrade</h1>
 <h3 align="center">Full Stack Developer • Systems Thinker • Builder of Scalable Solutions</h3>
 
-<p align="center">
-  <a href="https://github.com/plexosoft?tab=projects">
-    <img src="https://github-profile-trophy.vercel.app/?username=plexosoft&theme=algolia&no-frame=true&margin-w=10" />
-  </a>
-</p>
-
 ---
 
 ## About Me
