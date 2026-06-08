@@ -86,18 +86,6 @@ Cloud and Edge Computing • DevOps • Agile • Software Testing • System De
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=plexosoft&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plexosoft&layout=compact" />
-</p>
-
----
-
 ## Support My Work
 
 <p align="center">
